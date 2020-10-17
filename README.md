@@ -12,3 +12,5 @@ To get started -
 - ![enter image description here](https://i.imgur.com/dg58geQ.png)
 - Click on the latest test to show your results.
 - If you failed test 2.2. It means that your answer for the second question is not correct, try fixing it.
+
+[File upload demo for those who are new to github](https://drive.google.com/file/d/14LxV8YilldGaHGBsSrUNa-p0fs8S26ls/view?usp=sharing)
