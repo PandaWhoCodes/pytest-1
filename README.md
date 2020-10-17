@@ -11,3 +11,4 @@ To get started -
 - To view the tests that passed or failed Click on the actions tab.
 - ![enter image description here](https://i.imgur.com/dg58geQ.png)
 - Click on the latest test to show your results.
+- If you failed test 2.2. It means that your answer for the second question is not correct, try fixing it.
